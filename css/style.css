@@ -6,7 +6,7 @@ body {
   align-items: center;
   height: 100vh;
   font-family: "Red Hat Display", sans-serif;
-  background-image: url(./img/pattern-background-desktop.svg);
+  background-image: url(img/pattern-background-desktop.svg);
   background-repeat: repeat-x;
   cursor: pointer;
 }
